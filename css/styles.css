@@ -27,6 +27,18 @@ p {
     padding-top: 40px;
     padding-bottom: 20px;
 }
+.second-container h6{
+    text-align: left;
+    color: #CE1212;
+    font-family: 'Cinzel', serif;
+    font-size: x-large;
+    margin-left: 250px;
+}
+.second-container p{
+    margin-left: 250px;
+    text-align: left;
+    font-weight: bolder;
+}
 .third-container {
     background-color:#EEEBDD;
 }
